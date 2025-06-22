@@ -11,10 +11,6 @@ A modern, responsive Pokédex Android app built with Jetpack Compose. Browse Pok
 - 📘 **Detail screen** with stats, types, and image
 - 🎨 **Type-colored backgrounds** using dominant color extraction
 
-## 📱 Screenshots
-
-*(Insert screenshots here if you'd like — can use emulator screenshots)*
-
 ## 🛠 Tech Stack
 
 - **Language:** Kotlin
