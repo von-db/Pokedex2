@@ -49,4 +49,4 @@ This project is for educational and demo purposes only.
 ## 🙋 Author
 
 Created by **Dimitris Bakiris**  
-Email: `zaphkiel.von@gmail.com`
+Email: `dbakiris0@gmail.com`
