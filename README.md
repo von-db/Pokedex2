@@ -32,7 +32,7 @@ A modern, responsive Pokédex Android app built with Jetpack Compose. Browse Pok
 ### Clone & Run
 
 ```bash
-git clone https://github.com/yourusername/Pokedex2.git
+git clone https://github.com/von-db/Pokedex2.git
 cd Pokedex2
 ```
 
